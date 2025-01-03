@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **sameerkhansf/sameerkhansf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 # Hi there, I'm Sameer Khan 👋
 
 Welcome to my GitHub profile! I'm Sameer, a passionate software developer from San Francisco who loves creating innovative solutions and exploring new technologies.
