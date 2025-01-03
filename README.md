@@ -60,4 +60,8 @@ Welcome to my GitHub profile! I'm Sameer, a passionate software developer from S
 
 ![Sameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameerkhansf&show_icons=true&theme=radical)
 -->
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameerkhansf)
+[![X](https://img.shields.io/twitter/follow/sameerk87997815
+)](https://x.com/sameerk87997815?s=21)
 
