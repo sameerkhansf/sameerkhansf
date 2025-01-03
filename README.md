@@ -60,19 +60,4 @@ Welcome to my GitHub profile! I'm Sameer, a passionate software developer from S
 
 ![Sameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameerkhansf&show_icons=true&theme=radical)
 -->
-## 🌟 Projects
-
-Here are a few projects I've worked on:
-
-- [RentalInvestmentAnalyzer](https://github.com/sameerkhansf/RentalInvestmentAnalyzer): A TypeScript application for analyzing investment properties.
-- [SmartCredit](https://github.com/sameerkhansf/SmartCredit): A TypeScript project focused on smart credit solutions.
-- [JFLAPAutomataBuilder](https://github.com/sameerkhansf/JFLAPAutomataBuilder): A JavaScript tool for building automata using JFLAP.
-- [DealFinder](https://github.com/sameerkhansf/DealFinder): A TypeScript application to find the best deals.
-- [my-website](https://github.com/sameerkhansf/my-website): A newly updated personal website built with TypeScript.
-- [ExpenseTracker](https://github.com/sameerkhansf/ExpenseTracker): A TypeScript application to track expenses.
-- [tajinternationaltours](https://github.com/sameerkhansf/tajinternationaltours): A TypeScript project for an international tours company.
-- [FinanceTrackerApp](https://github.com/sameerkhansf/FinanceTrackerApp): A JavaScript web application to input expenses and compute totals by month and category.
-- [PersonalWebsite](https://github.com/sameerkhansf/PersonalWebsite): A portfolio website about myself and my experiences, built with CSS.
-- [PostsFullStackApplication](https://github.com/sameerkhansf/PostsFullStackApplication): A full-stack application that allows you to create posts and comment on others' posts.
-- [TaskPro](https://github.com/sameerkhansf/TaskPro): A to-do list mobile application to set tasks and reminders, built with Java.
 
