@@ -29,7 +29,26 @@ Welcome to my GitHub profile! I'm Sameer, a passionate software developer from S
 - 📫 How to reach me: [khansam@sonoma.edu](mailto:khansam@sonoma.edu)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: In my free time, I enjoy playing guitar and exploring new hiking trails.
-
+- 
+## Languages and Tools
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+<!--
 ## 🛠 Technologies & Tools
 
 - **Languages:** JavaScript, Python, Java, C++
@@ -38,11 +57,12 @@ Welcome to my GitHub profile! I'm Sameer, a passionate software developer from S
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **DevOps:** Docker, Kubernetes, GitHub Actions, Jenkins
 - **Cloud:** AWS, Azure, Google Cloud
-
+-->
+<!--
 ## 📈 GitHub Stats
 
 ![Sameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameerkhansf&show_icons=true&theme=radical)
-
+-->
 ## 🌟 Projects
 
 Here are a few projects I've worked on:
