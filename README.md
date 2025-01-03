@@ -64,4 +64,6 @@ Welcome to my GitHub profile! I'm Sameer, a passionate software developer from S
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameerkhansf)
 [![X](https://img.shields.io/twitter/follow/sameerkhan_sf
 )](https://x.com/sameerkhan_sf?s=21)
+![Profile Views](https://komarev.com/ghpvc/?username=sameerkhansf&label=Profile%20views&color=0e75b6&style=flat)
+
 
