@@ -25,8 +25,8 @@ Welcome to my GitHub profile! I'm Sameer, a passionate software developer from S
 - 💬 Ask me about web development, cloud computing, and AI/ML.
 - 📫 How to reach me: [khansam@sonoma.edu](mailto:khansam@sonoma.edu)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: In my free time, I enjoy playing guitar and exploring new hiking trails.
-- 
+- ⚡ Fun fact: In my free time, I enjoy exploring new hiking trails.
+  
 ## Languages and Tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -76,12 +76,3 @@ Here are a few projects I've worked on:
 - [PostsFullStackApplication](https://github.com/sameerkhansf/PostsFullStackApplication): A full-stack application that allows you to create posts and comment on others' posts.
 - [TaskPro](https://github.com/sameerkhansf/TaskPro): A to-do list mobile application to set tasks and reminders, built with Java.
 
-Feel free to explore these projects and check out the code!
-
-## 💬 Let's Connect
-
-Feel free to reach out if you want to collaborate on a project, ask a question, or just say hi!
-
----
-
-*Thank you for visiting my GitHub profile! Have a great day!*
