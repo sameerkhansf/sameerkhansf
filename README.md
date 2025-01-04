@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm Sameer, a passionate software developer from S
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameerkhansf)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameerkhansf)
 [![X](https://img.shields.io/twitter/follow/sameerkhan_sf?style=social)](https://x.com/sameerkhan_sf)
 
 
