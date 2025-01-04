@@ -1,17 +1,4 @@
-<!--
-**sameerkhansf/sameerkhansf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there, I'm Sameer Khan 👋
 
 Welcome to my GitHub profile! I'm Sameer, a passionate software developer from San Francisco who loves creating innovative solutions and exploring new technologies.
@@ -43,28 +30,9 @@ Welcome to my GitHub profile! I'm Sameer, a passionate software developer from S
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-<!--
-## 🛠 Technologies & Tools
 
-- **Languages:** JavaScript, Python, Java, C++
-- **Frontend:** React, Vue.js, HTML, CSS
-- **Backend:** Node.js, Express, Django, Flask
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **DevOps:** Docker, Kubernetes, GitHub Actions, Jenkins
-- **Cloud:** AWS, Azure, Google Cloud
--->
-<!--
-## 📈 GitHub Stats
-
-![Sameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameerkhansf&show_icons=true&theme=radical)
--->
 ## Connect with me
-<!--
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameerkhansf)
-[![X](https://img.shields.io/twitter/follow/sameerkhan_sf
-)](https://x.com/sameerkhan_sf?s=21)
-![Profile Views](https://komarev.com/ghpvc/?username=sameerkhansf&label=Profile%20views&color=0e75b6&style=flat)
--->
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameerkhansf)
 [![X](https://img.shields.io/twitter/follow/sameerkhan_sf)](https://x.com/sameerkhan_sf?s=21)
 ![Profile Views](https://komarev.com/ghpvc/?username=sameerkhansf&label=Profile%20views&color=0e75b6&style=for-the-badge)
