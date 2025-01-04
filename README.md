@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm Sameer, a passionate software developer from S
 
 - 🔭 I’m currently working on various full-stack projects, focusing on delivering high-quality software.
 - 🌱 I’m currently learning advanced machine learning techniques and cloud computing.
-- 👯 I’m looking to collaborate on interesting and challenging projects that can make a difference.
+- 🕺 I’m looking to collaborate on interesting and challenging projects that can make a difference.
 - 🤔 I’m looking for help with open-source contributions and community engagement.
 - 💬 Ask me about web development, cloud computing, and AI/ML.
 - 📫 How to reach me: [khansam@sonoma.edu](mailto:khansam@sonoma.edu)
