@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Sameer, a passionate software developer from S
 - 🕺 I’m looking to collaborate on interesting and challenging projects that can make a difference.
 - 🤔 I’m looking for help with open-source contributions and community engagement.
 - 💬 Ask me about web development, cloud computing, and AI/ML.
-- 📫 How to reach me: [khansam@sonoma.edu](mailto:khansam@sonoma.edu)
+- 📫 How to reach me: []
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: In my free time, I enjoy exploring new hiking trails.
   
